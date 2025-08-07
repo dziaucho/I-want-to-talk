@@ -3,7 +3,7 @@ import createButton from "../components/button.js";
 
 let savedData = {};
 
-const dataPromise = fetch("../assets/text.json")
+const dataPromise = fetch("assets/text.json")
     .then(response => response.json())
     .then(data => savedData = data);
 
