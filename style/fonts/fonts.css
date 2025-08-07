@@ -1,0 +1,55 @@
+/* Balsamiq_Sans */
+
+@font-face {
+  font-family: Balsamiq_Sans;
+  src: url(../../assets/fonts/Balsamiq_Sans/BalsamiqSans-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Balsamiq_Sans;
+  src: url(../../assets/fonts/Balsamiq_Sans/BalsamiqSans-Italic.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Balsamiq_Sans;
+  src: url(../../assets/fonts/Balsamiq_Sans/BalsamiqSans-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Balsamiq_Sans;
+  src: url(../../assets/fonts/Balsamiq_Sans/BalsamiqSans-BoldItalic.ttf);
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Jost */
+
+@font-face {
+  font-family: Jost;
+  src: url(../../assets/fonts/Jost/Jost-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Jost;
+  src: url(../../assets/fonts/Jost/Jost-Italic.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Jost;
+  src: url(../../assets/fonts/Jost/Jost-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Jost;
+  src: url(../../assets/fonts/Jost/Jost-BoldItalic.ttf);
+  font-weight: 700;
+  font-style: italic;
+}
